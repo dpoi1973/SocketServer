@@ -1,0 +1,16 @@
+{
+  "Common": {
+    "dbRESTHost": "192.168.0.72:3001",
+    "postHost": "http://www.autoport.com.cn",
+    "aliHost": "http://106.14.160.204:8001",
+    "mqServer": "amqp://192.168.0.251",
+    "pdfHost":"http://127.0.0.1:1480/?name=",
+    "pdfPath":"/home/wanli/data/workspace/pyweb/pyweb/",
+    "ediCustomsResultQ": "C#edicustomsResults",
+    "ediFormheadQ": "C#ediformhead",
+    "decResultQ":"C#decResult",
+    "ftpPdfQ": "C#ftppdf",
+    "userName": "admin",
+    "passWord": "admin"
+  }
+}

@@ -1,4 +1,3 @@
-# SocketServer
 -----这是对EDI导入导出系统的服务端------
 socket.io配置和事件位于app.js
 基础加解密方法、时间转换方法和维护表字段位于common里面
@@ -11,3 +10,4 @@ encryptService --- 数据加解密
 RabbitService --- 队列服务
 transformService --- 本地数据效验转化
 validatedService --- 数据字段长度效验
+
